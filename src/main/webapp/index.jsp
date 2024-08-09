@@ -6,8 +6,8 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
-　　　　　　　　　
-　　　　　　ｈｙｕｎｗｏｏ　ｋｉｍ　
+<body>	
+	asdfasdfasdfasdfasdfasdfasdf
+	Hello world 　　　
 </body>
 </html>
